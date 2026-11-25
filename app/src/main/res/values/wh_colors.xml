@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="wh_primary">#00796B</color>
+    <color name="wh_primary_dark">#004D40</color>
+    <color name="wh_orange">#F57C00</color>
+    <color name="wh_red">#D32F2F</color>
+    <color name="wh_bg">#F5F7F8</color>
+    <color name="wh_text">#212121</color>
+    <color name="wh_text_secondary">#616161</color>
+    <color name="wh_border">#CFD8DC</color>
+    <color name="wh_chip_bg">#E0F2F1</color>
+    <color name="wh_chip_warn_bg">#FDE7E9</color>
+    <color name="wh_white">#FFFFFF</color>
+</resources>
